@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DoorDashLite</string>
+    <string name="error">There is a problem.Please try again later.</string>
+</resources>
